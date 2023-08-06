@@ -1,6 +1,8 @@
 # photo-album
 Virtual photo album.
 
+Live demo [_here_](https://codepen.io/lisu277/full/ExLvoGV).
+
 ## Table of Contents
 * [Tech Stack](#tech-stack)
 * [Run Locally](#run-locally)
